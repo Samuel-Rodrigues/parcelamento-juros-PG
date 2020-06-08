@@ -67,6 +67,7 @@ namespace simulador_juros
 
             app.UseHttpsRedirection();
             app.UseMvc();
+            app.UseCors("AllowAll");
         }
     }
 }
