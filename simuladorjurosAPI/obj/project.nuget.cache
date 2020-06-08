@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XN+CjOC4shxEk9ZJGIRhMt/begij6x322KWhos4iJoeR+Z9BPi3ogzJw1z6ra+3kq5q8YaN1hiUkW04vjlNfVw==",
+  "dgSpecHash": "/5wFFQGUtATX5WOaKmT4RiOB3+GS5kP1E0LYeOZPdMWWCk90c0k+JBXch1gYKw+9+Kag+ONt2YeK4ii/zsmhNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\simuladorjuros.csproj",
+  "projectFilePath": "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\simuladorjuros.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\samuelrodrigues\\.nuget\\packages\\dapper\\2.0.35\\dapper.2.0.35.nupkg.sha512",
     "C:\\Users\\samuelrodrigues\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

@@ -20,6 +20,7 @@ justify-self: center;
       a {
         font-weight: bold;
         color: #7159c1;
+        font-size: 16px;
       }
   }
 

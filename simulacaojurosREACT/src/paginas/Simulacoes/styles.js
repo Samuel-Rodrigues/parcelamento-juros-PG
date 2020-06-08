@@ -2,13 +2,7 @@ import styled from 'styled-components';
 import { darken } from 'polished'
 
 export const Container = styled.div`
-margin: auto;
-padding: 0;
-height: 100%;
-min-height: auto;
-justify-content: center;
-align-items: center;
-background: linear-gradient(-90deg, #47D9C5, #089BB5);
+ margin-top: 4%;
 `;
 
 export const Title = styled.div`

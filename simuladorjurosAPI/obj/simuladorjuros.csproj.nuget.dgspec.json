@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\simuladorjuros.csproj": {}
+    "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\simuladorjuros.csproj": {}
   },
   "projects": {
-    "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\simuladorjuros.csproj": {
+    "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\simuladorjuros.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\simuladorjuros.csproj",
+        "projectUniqueName": "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\simuladorjuros.csproj",
         "projectName": "simuladorjuros",
-        "projectPath": "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\simuladorjuros.csproj",
+        "projectPath": "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\simuladorjuros.csproj",
         "packagesPath": "C:\\Users\\samuelrodrigues\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\samuelrodrigues\\source\\repos\\simulador-juros\\obj\\",
+        "outputPath": "Z:\\GitHub\\parcelamento-juros-PG\\simuladorjurosAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\samuelrodrigues\\AppData\\Roaming\\NuGet\\NuGet.Config",
